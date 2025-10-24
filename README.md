@@ -58,31 +58,17 @@ python tree_dsa_gui.py
 wget https://raw.githubusercontent.com/yourusername/tree-dsa-gui/main/tree_dsa_gui.py
 python tree_dsa_gui.py
 ```
-graph TB
-    A[Tkinter GUI] --> B[Inventory Manager]
-    A --> C[Recommendation Engine]
-    A --> D[Task Scheduler]
-    A --> E[Tree Analyzer]
-    B --> B1[BST - Product ID Search]
-    B --> B2[AVL - Category Organization]
-    C --> C1[BST - User Management]
-    C --> C2[AVL - Content Organization]
-    D --> D1[BST - Priority Scheduling]
-    D --> D2[AVL - Deadline Monitoring]
-    E --> E1[Performance Metrics]
-    E --> E2[Visualization Tools]
+# Time Complexities:
+ - Insert: O(h) - O(log n) average, O(n) worst
+ - Search: O(h) - O(log n) average, O(n) worst
+ - Delete: O(h) - O(log n) average, O(n) worst
+ Space Complexity: O(n)
 
 # Time Complexities:
-# - Insert: O(h) - O(log n) average, O(n) worst
-# - Search: O(h) - O(log n) average, O(n) worst
-# - Delete: O(h) - O(log n) average, O(n) worst
-# Space Complexity: O(n)
-
-# Time Complexities:
-# - Insert: O(log n) guaranteed
-# - Search: O(log n) guaranteed
-# - Delete: O(log n) guaranteed
-# Space Complexity: O(n)
+ - Insert: O(log n) guaranteed
+ - Search: O(log n) guaranteed
+ - Delete: O(log n) guaranteed
+ Space Complexity: O(n)
 
 
 📈 Learning Outcomes
