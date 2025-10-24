@@ -7,33 +7,33 @@
 
 A comprehensive desktop application that demonstrates practical implementations of tree data structures (BST, AVL) integrated with real-world projects through an intuitive Tkinter GUI interface.
 
-![Application Demo](https://via.placeholder.com/800x400/2D3748/FFFFFF?text=Tree+DSA+Applications+Demo)
+
 
 ## 🚀 Features
 
 ### 📦 Inventory Management System
-![Inventory Management](https://via.placeholder.com/400x200/4A5568/FFFFFF?text=Smart+Inventory+Management)
+
 - **BST-based product catalog** for efficient searching
 - **AVL tree category organization** for balanced operations
 - Real-time stock monitoring and low-stock alerts
 - Quick product lookup and inventory analysis
 
 ### 🎯 AI Recommendation Engine
-![AI Recommendation](https://via.placeholder.com/400x200/4A5568/FFFFFF?text=AI+Recommendation+System)
+
 - **Collaborative filtering** using tree structures
 - User preference tracking with BST
 - Content categorization with AVL trees
 - Personalized recommendation generation
 
 ### ⏰ Smart Task Scheduler
-![Task Scheduler](https://via.placeholder.com/400x200/4A5568/FFFFFF?text=Real-time+Task+Scheduler)
+
 - **Priority-based task scheduling** using BST
 - **Deadline monitoring** with AVL trees
 - Urgent task detection and next-task prediction
 - Efficient task completion tracking
 
 ### 📊 Tree Visualization & Analysis
-![Tree Analysis](https://via.placeholder.com/400x200/4A5568/FFFFFF?text=Tree+Performance+Analysis)
+
 - Real-time tree statistics (height, size, balance)
 - Performance comparison between BST and AVL
 - Visual representation of tree operations
@@ -70,68 +70,60 @@ python tree_dsa_gui.py
  - Delete: O(log n) guaranteed
  Space Complexity: O(n)
 
+ --- 
 
 📈 Learning Outcomes
 Data Structures & Algorithms
-Tree Traversals: Inorder, Preorder, Postorder
-
-Balancing Algorithms: AVL rotations
-
-Time Complexity Analysis: Big O notation
-
-Space Complexity: Memory usage optimization
+- Tree Traversals: Inorder, Preorder, Postorder
+- Balancing Algorithms: AVL rotations
+- Time Complexity Analysis: Big O notation
+- Space Complexity: Memory usage optimization
 
 Software Engineering
-GUI Development: Tkinter programming
+- GUI Development: Tkinter programming
+- Object-Oriented Design: Class hierarchies and interfaces
+- Software Architecture: Modular design patterns
+- User Experience: Intuitive interface design
 
-Object-Oriented Design: Class hierarchies and interfaces
-
-Software Architecture: Modular design patterns
-
-User Experience: Intuitive interface design
+---
 
 🤝 Contributing
 We welcome contributions! Please see our Contributing Guidelines for details.
-
 Fork the repository
-
 Create a feature branch (git checkout -b feature/AmazingFeature)
-
 Commit your changes (git commit -m 'Add some AmazingFeature')
-
 Push to the branch (git push origin feature/AmazingFeature)
-
 Open a Pull Request
+
+---
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+---
+
 🎓 Educational Value
 This project is perfect for:
-
 Computer Science Students learning DSA
-
 Developers exploring GUI applications
-
 Educators teaching tree data structures
-
 Enthusiasts interested in practical algorithm applications
 
+---
 📞 Support
 If you have any questions or need help:
-
-Open an Issue
-
-Check our Documentation
-
-Join our Discussions
+- Open an Issue
+- Check our Documentation
+- Join our Discussions
+  
+---
 
 🙏 Acknowledgments
-Inspired by classic DSA textbooks and real-world system designs
+- Inspired by classic DSA textbooks and real-world system designs
+- Built with Python's built-in Tkinter for accessibility
+- Special thanks to the open-source community for the best practices
 
-Built with Python's built-in Tkinter for accessibility
-
-Special thanks to the open-source community for best practices
+---
 
 <div align="center">
 ⭐ Star this repo if you find it helpful!
@@ -139,3 +131,4 @@ Special thanks to the open-source community for best practices
 https://via.placeholder.com/800/2D3748/FFFFFF?text=Master+Tree+Data+Structures+with+Real-World+Applications
 
 </div> ```
+---
